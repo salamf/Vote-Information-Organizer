@@ -1,0 +1,343 @@
+Winner of the election: NDP
+
+Winner of the popular vote: CONSERVATIVE
+
+		RIDING#				NDP	   CONSERVATIVE 		LIBERAL			  GREEN    WINNING PARTY
+              0               6               7               7              10           GREEN
+              1               8               5               8               5       NOT NAMED
+              2              12               8               5               6             NDP
+              3               4               7               6               6    CONSERVATIVE
+              4               6               8               8              12           GREEN
+              5               8               4               9              10           GREEN
+              6               5               7              12               9         LIBERAL
+              7              12               6               3               7             NDP
+              8              10               8               8               7             NDP
+              9              11               6               9              11       NOT NAMED
+             10               7               6               5               8           GREEN
+             11               6              11               2               7    CONSERVATIVE
+             12               1               7               7               8           GREEN
+             13              10               7               6               7             NDP
+             14               5              10               6              11           GREEN
+             15               9               6               7               7             NDP
+             16               7               5               3               9           GREEN
+             17               9              13               6               6    CONSERVATIVE
+             18               5              11               5               9    CONSERVATIVE
+             19               4               5               6               7           GREEN
+             20               4              12              13               7         LIBERAL
+             21              11              12              14               7         LIBERAL
+             22               2              10               3               8    CONSERVATIVE
+             23              10              10               8               5       NOT NAMED
+             24              10               5               7               8             NDP
+             25              11              10               3               8             NDP
+             26               6               8              14              11         LIBERAL
+             27               4               2               4              10           GREEN
+             28               8              14               7              11    CONSERVATIVE
+             29              10               6               7              10       NOT NAMED
+             30              12               7               6               8             NDP
+             31               7               5               7               4       NOT NAMED
+             32              12               5               3               3             NDP
+             33               4               7               6               3    CONSERVATIVE
+             34               6               5              12               8         LIBERAL
+             35               8               8               4              11           GREEN
+             36               9               9               6              11           GREEN
+             37               4               2              11               5         LIBERAL
+             38              11               7               9               6             NDP
+             39              12              12               8               3       NOT NAMED
+             40               3              11               0              15           GREEN
+             41               8               2               5              10           GREEN
+             42               3               9               7               5    CONSERVATIVE
+             43               2               6              10              10       NOT NAMED
+             44               6              11               3               9    CONSERVATIVE
+             45              11              10               7               6             NDP
+             46               9              10               9               7    CONSERVATIVE
+             47              13               4              10               4             NDP
+             48               5               4               7               8           GREEN
+             49               7              11              11              11       NOT NAMED
+             50              12               8               6               7             NDP
+             51               9               9              11               3         LIBERAL
+             52               9               7               5               8             NDP
+             53               9               6              10               7         LIBERAL
+             54               6               9               4               7    CONSERVATIVE
+             55               5               9               6               5    CONSERVATIVE
+             56              12               6               4               5             NDP
+             57               5               6               5              11           GREEN
+             58               3               7              10               8         LIBERAL
+             59               7              11              10               7    CONSERVATIVE
+             60               8               6               8               6       NOT NAMED
+             61              12               4               5               5             NDP
+             62               5              12               7              12       NOT NAMED
+             63              12               4              13              10         LIBERAL
+             64               7               7              11               9         LIBERAL
+             65              10               9               9               9             NDP
+             66               5              10               8               6    CONSERVATIVE
+             67               5              14               5               5    CONSERVATIVE
+             68               4              10              12               6         LIBERAL
+             69               6               7               5               7       NOT NAMED
+             70               3               6              13              10         LIBERAL
+             71               7               8               8               8       NOT NAMED
+             72               6               7               6               6    CONSERVATIVE
+             73               8               9              11               7         LIBERAL
+             74               7               9               6               8    CONSERVATIVE
+             75               8               9              10              14           GREEN
+             76              10               6               6              12           GREEN
+             77               8               7               3               8       NOT NAMED
+             78              11               9               5               8             NDP
+             79               7              11               5               5    CONSERVATIVE
+             80               5               5              12               9         LIBERAL
+             81               5              11               9               5    CONSERVATIVE
+             82               8              13              10               7    CONSERVATIVE
+             83               4               6               6               8           GREEN
+             84              12               8               9              12       NOT NAMED
+             85               8               2               3               6             NDP
+             86              11              10               6               6             NDP
+             87              11               9               9               5             NDP
+             88               5              10               7               7    CONSERVATIVE
+             89               9               6               5              10           GREEN
+             90               7               7              11              13           GREEN
+             91               5              12              10              10    CONSERVATIVE
+             92               9               7              10               5         LIBERAL
+             93               5              10              11              10         LIBERAL
+             94               6               8               8               7       NOT NAMED
+             95               7              10               4              10       NOT NAMED
+             96               6               7               7               9           GREEN
+             97               9               4               6               2             NDP
+             98               9               8               4               9       NOT NAMED
+             99               7              11               6               8    CONSERVATIVE
+            100              13               7               9               5             NDP
+            101               4               6              10               9         LIBERAL
+            102               9               9               4              11           GREEN
+            103               8               5               8               6       NOT NAMED
+            104               5               4               7               6         LIBERAL
+            105               7               4               9               3         LIBERAL
+            106               7               5               7               7       NOT NAMED
+            107              10               7               9               8             NDP
+            108               5               9               3               8    CONSERVATIVE
+            109               4               7               5               7       NOT NAMED
+            110              11               6               5               9             NDP
+            111               3               5               7               8           GREEN
+            112               8               5               6               7             NDP
+            113               6               8               7               7    CONSERVATIVE
+            114               7               6               5               9           GREEN
+            115               8               4               9               4         LIBERAL
+            116              10               7               3              10       NOT NAMED
+            117               6              16              11               7    CONSERVATIVE
+            118              15               6               9               6             NDP
+            119               5              10               9               5    CONSERVATIVE
+            120               6               4               8              12           GREEN
+            121              11               6               3              10             NDP
+            122              11               8               9               9             NDP
+            123               7               7               7               6       NOT NAMED
+            124               5               8              11               5         LIBERAL
+            125               4              12               7               6    CONSERVATIVE
+            126               9               6              10              10       NOT NAMED
+            127               4               7               8               6         LIBERAL
+            128              12              12               2              18           GREEN
+            129               7               9               8               7    CONSERVATIVE
+            130               9              12               2               7    CONSERVATIVE
+            131              12               6               9               8             NDP
+            132              11              10              11               7       NOT NAMED
+            133               7               4               8              12           GREEN
+            134               3               4               8              10           GREEN
+            135              12               3               5               3             NDP
+            136               7               9              11               6         LIBERAL
+            137               8              10               7              12           GREEN
+            138               6               4               3               6       NOT NAMED
+            139               5               7               7               7       NOT NAMED
+            140               6               6               7              16           GREEN
+            141              10               5               4               6             NDP
+            142               7               7              10               9         LIBERAL
+            143               4               6               9               9       NOT NAMED
+            144              14               6               9               6             NDP
+            145              12               8               5               8             NDP
+            146               9               4               4               5             NDP
+            147               9               5               8              10           GREEN
+            148               8               6               7               9           GREEN
+            149              11               8              13               6         LIBERAL
+            150               6               8              10               9         LIBERAL
+            151               4               3               6               6       NOT NAMED
+            152               5               8               8               6       NOT NAMED
+            153              11               6              10               4             NDP
+            154               6               6               6               3       NOT NAMED
+            155              10               9               5               5             NDP
+            156               6               9               6               6    CONSERVATIVE
+            157              11               9               3               3             NDP
+            158               5               8               5               7    CONSERVATIVE
+            159               6              10               7               5    CONSERVATIVE
+            160               4               4               5               6           GREEN
+            161               9               5               3               4             NDP
+            162               7               8               8              11           GREEN
+            163               5               7               9               9       NOT NAMED
+            164               3               9               2               4    CONSERVATIVE
+            165               9               3               4               7             NDP
+            166               9               4               8               5             NDP
+            167               8              11               4               8    CONSERVATIVE
+            168              12               7              10               7             NDP
+            169               8               3               9               4         LIBERAL
+            170               8               8               7               6       NOT NAMED
+            171               4              11               8              12           GREEN
+            172               7               9               7               7    CONSERVATIVE
+            173               9              13               9              10    CONSERVATIVE
+            174               3               9              10               6         LIBERAL
+            175               4               6               6               3       NOT NAMED
+            176               9               5               7               2             NDP
+            177              10               5               7               2             NDP
+            178               5              10               6               9    CONSERVATIVE
+            179               5               5              15               7         LIBERAL
+            180               5               8               8               8       NOT NAMED
+            181               6               8               4               9           GREEN
+            182               6               6               7               4         LIBERAL
+            183              13               6               9               4             NDP
+            184               3              10               8              11           GREEN
+            185               9               7               6               5             NDP
+            186               4              11               7               2    CONSERVATIVE
+            187              14               7              10               6             NDP
+            188               9              10               2              14           GREEN
+            189               9               8               5               6             NDP
+            190               8               9               5               9       NOT NAMED
+            191              11               7               8               6             NDP
+            192               6               6               6              12           GREEN
+            193               9               3              10               7         LIBERAL
+            194               7               6               8               9           GREEN
+            195               6               7               9               9       NOT NAMED
+            196               5              11               8               8    CONSERVATIVE
+            197               9              11               8               8    CONSERVATIVE
+            198               8              11              12               5         LIBERAL
+            199               6               9               8              10           GREEN
+            200              14              11               9               4             NDP
+            201               9               7               3              11           GREEN
+            202               8               6               4               5             NDP
+            203               7               6               3               6             NDP
+            204               8               7               4               7             NDP
+            205               7              10               7               4    CONSERVATIVE
+            206               8               6               5               9           GREEN
+            207               6               4               8               3         LIBERAL
+            208               8               6               5               6             NDP
+            209              10               6               4               4             NDP
+            210               8               9               7               4    CONSERVATIVE
+            211              11              10               9               6             NDP
+            212               8               5               6              11           GREEN
+            213              12              10               7              14           GREEN
+            214               4               5              12               9         LIBERAL
+            215               4               9               6               7    CONSERVATIVE
+            216              10               8               4               7             NDP
+            217               3               7              10               6         LIBERAL
+            218               9               8               9              10           GREEN
+            219              12              17               6               6    CONSERVATIVE
+            220              11              12               5               3    CONSERVATIVE
+            221              10               7               7               4             NDP
+            222               8               6               3               7             NDP
+            223              16               5               4               9             NDP
+            224               4               7               7               7       NOT NAMED
+            225               7               6               5               6             NDP
+            226               8               6              10               7         LIBERAL
+            227               9               9              10               8         LIBERAL
+            228               4               9              12              10         LIBERAL
+            229               5               8               8              10           GREEN
+            230               7               7               9              10           GREEN
+            231               4               5              10               6         LIBERAL
+            232              10               4               6               7             NDP
+            233               8               3              12               7         LIBERAL
+            234               5               9              10              11           GREEN
+            235               8               8              12               6         LIBERAL
+            236               7               7               7              11           GREEN
+            237               7               7               5               6       NOT NAMED
+            238              11               7               5               9             NDP
+            239              10               5               9               7             NDP
+            240              10               6              15               6         LIBERAL
+            241               9              11               9               7    CONSERVATIVE
+            242               4               2               7              10           GREEN
+            243               6              11               7              11       NOT NAMED
+            244               6              11               4               6    CONSERVATIVE
+            245               5               7               4              11           GREEN
+            246               5              11              11               8       NOT NAMED
+            247               7               3               6              11           GREEN
+            248               9              10               6               5    CONSERVATIVE
+            249               5              10               5              12           GREEN
+            250               6               6               8               7         LIBERAL
+            251               5              11              11              12           GREEN
+            252               6               5               4               9           GREEN
+            253              11               6               9               5             NDP
+            254               4               7              10               5         LIBERAL
+            255              10              12               6               2    CONSERVATIVE
+            256               4               6               8               8       NOT NAMED
+            257              11               7               9               6             NDP
+            258               8               9               7               9       NOT NAMED
+            259               4               8               6               7    CONSERVATIVE
+            260               9               8               4               6             NDP
+            261               5               7               4               8           GREEN
+            262               6               9               6               8    CONSERVATIVE
+            263               9               7               9               3       NOT NAMED
+            264               3              10               8              10       NOT NAMED
+            265              10              10               8               6       NOT NAMED
+            266               8               4               6              12           GREEN
+            267               7              10               7              12           GREEN
+            268              10               8               3               7             NDP
+            269               7               8               6               6    CONSERVATIVE
+            270              13               7               6              10             NDP
+            271               2               9               6               4    CONSERVATIVE
+            272               8               7              10               5         LIBERAL
+            273               9               7               5              11           GREEN
+            274              11              10               8               4             NDP
+            275               6               7               5               6    CONSERVATIVE
+            276              10               8              12               5         LIBERAL
+            277               7               7               9               6         LIBERAL
+            278               9               2               4               6             NDP
+            279               6               6               8               5         LIBERAL
+            280               6               5               9               9       NOT NAMED
+            281               6               6               7               7       NOT NAMED
+            282               6              11               6               4    CONSERVATIVE
+            283              12               7               5              10             NDP
+            284               6               5              10               8         LIBERAL
+            285               4              13               7               2    CONSERVATIVE
+            286               7               8               6               9           GREEN
+            287               8               8              14               9         LIBERAL
+            288               7               5              12               7         LIBERAL
+            289               7               2               7              10           GREEN
+            290               8               9              10               6         LIBERAL
+            291              12               6               4               6             NDP
+            292               7               7              12              11         LIBERAL
+            293               4              10               7               9    CONSERVATIVE
+            294              10               8              13              10         LIBERAL
+            295               6               8              11               7         LIBERAL
+            296               8               5              11               7         LIBERAL
+            297               7               5               5              10           GREEN
+            298               5               7               9              12           GREEN
+            299               6               6               6               8           GREEN
+            300               5              11               3               7    CONSERVATIVE
+            301              12               5               9               9             NDP
+            302               6               3               7               5         LIBERAL
+            303               6               9               8               5    CONSERVATIVE
+            304               9               7               6              11           GREEN
+            305               7               8               5               6    CONSERVATIVE
+            306              11               8               8               5             NDP
+            307               3               7              12               5         LIBERAL
+            308               2              10               5               5    CONSERVATIVE
+            309               9               4               6               4             NDP
+            310               6               6               4               6       NOT NAMED
+            311               5               6               3              10           GREEN
+            312               5               4              12               6         LIBERAL
+            313               4               9              10               6         LIBERAL
+            314               8              14               6               4    CONSERVATIVE
+            315              11               2              10              11       NOT NAMED
+            316               6               7               5               6    CONSERVATIVE
+            317               9               5               7               2             NDP
+            318               7              16               6              15    CONSERVATIVE
+            319               3               7              10               6         LIBERAL
+            320              11               9               3               4             NDP
+            321               8               7               8               6       NOT NAMED
+            322               5               7              10               8         LIBERAL
+            323               5               5               8               7         LIBERAL
+            324               5               6              11               4         LIBERAL
+            325               3               6               7               7       NOT NAMED
+            326               4               8              12               8         LIBERAL
+            327               5              10               9               7    CONSERVATIVE
+            328              10              10               5               8       NOT NAMED
+            329               5               7              10               8         LIBERAL
+            330               5               6               5               5    CONSERVATIVE
+            331              12               5               7               8             NDP
+            332               9               6               6               9       NOT NAMED
+            333               4              10               7               3    CONSERVATIVE
+            334               8               8               4               2       NOT NAMED
+            335               8               6               7               6             NDP
+            336              11               7               9               8             NDP
+            337               0               0               0               0       NOT NAMED
